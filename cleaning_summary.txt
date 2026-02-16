@@ -1,0 +1,10 @@
+Data Cleaning Summary
+
+• Checked for missing values — none found
+• Checked for duplicates — none found
+• Verified text consistency across columns
+• Confirmed correct data types
+• Dataset required no major cleaning
+
+Conclusion:
+Dataset is clean and ready for analysis.
